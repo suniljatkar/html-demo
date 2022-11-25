@@ -1,0 +1,108 @@
+/* last-row {
+    grid-column-end: 4;
+} */
+
+.img-fluid.image {
+    margin-top: 17px;
+}
+
+/* product col */
+.col.bg-success.v-first-col {
+    height: 430px;
+}
+
+.v-second-col {
+    margin-top: 40px;
+    height: 556px;
+    background: url("../image/image5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.second-product {
+    position: absolute;
+    bottom: 65px;
+    /* top: 180px; */
+    margin-left: 25px;
+}
+
+.second-product h4 {
+    color: white;
+}
+
+.second-product h2 {
+    color: floralwhite;
+    font-size: 26px;
+}
+
+.btn {
+    width: 160px;
+    background-color: black;
+    color: white;
+    padding: 13px;
+    border-radius: 28px;
+    margin-top: 5px;
+}
+
+/* col{
+    border:1px solid
+} */
+
+/* banner section */
+/* .row.mt-2.banner-section {
+    background: url("image/welding2-image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    opacity: 0.8;
+
+} */
+.row.mt-2.banner-section {
+    /* height: 154px; */
+    background-color: black;
+    background: url("image/welding2-image.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container .banner-section {
+    background: url(image/welding2-image.jpg);
+}
+.col-9.image1 {
+    background: linear-gradient(45deg, black, transparent);
+    background: url(image/welding2-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.text-center {
+    text-align: center !important;
+    color: rgb(62, 220, 167);
+}
+
+.container.text-center.p-5.banner-name h4 {
+    font-size: 26px;
+}
+
+.container.text-center.p-5.banner-name h2 {
+    font-size: 35px;
+}
+
+/* second product */
+.product2 {
+    background: url("image/image5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+
+/* about-us page start */
+ /* header class */
+ /* .nav-link{
+    color:rgb(47, 173, 47)
+  }
+  .company-logo{
+    color:rgb(47, 173, 47) ;
+  } */
+  /* banner class */
